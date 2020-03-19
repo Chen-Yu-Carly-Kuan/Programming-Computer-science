@@ -12,6 +12,8 @@ Web
 -
 * [GitHub Education](https://education.github.com/)
 
+* [Data Analytics Hub](https://exeter-data-analytics.github.io/)
+
 
 Python
 -
