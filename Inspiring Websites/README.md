@@ -12,8 +12,11 @@ Web
 -
 * [GitHub Education](https://education.github.com/)
 
-* [Covid-Twitter](https://twitter.com/klsywd/status/1239680070018428928)
 
+Python
+-
+
+* [Academic twitter](https://twitter.com/klsywd/status/1239680070018428928)
 
 
 R
