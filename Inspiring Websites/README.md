@@ -26,3 +26,7 @@ R
 * [25 days](https://kiirstio.wixsite.com/kowen/post/the-25-days-of-christmas-an-r-advent-calendar)
 * [R-crash-course](https://bioinformatics-core-shared-training.github.io/r-crash-course/)
 * [Learn R, in R](https://swirlstats.com/)
+
+jupyter notebook
+-
+* [All you need to know as a beginner](https://www.youtube.com/watch?v=HW29067qVWk)
