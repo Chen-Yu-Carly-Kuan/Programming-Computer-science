@@ -14,6 +14,8 @@ Web
 
 * [Data Analytics Hub](https://exeter-data-analytics.github.io/)
 
+* [Data science central](https://www.datasciencecentral.com/)
+
 
 Python
 -
