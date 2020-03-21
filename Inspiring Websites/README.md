@@ -52,3 +52,5 @@ R
 Jupyter notebook
 -
 * [All you need to know as a beginner](https://www.youtube.com/watch?v=HW29067qVWk)
+
+* [Cell magic extensions](https://www.youtube.com/watch?v=zxkdO07L29Q)
