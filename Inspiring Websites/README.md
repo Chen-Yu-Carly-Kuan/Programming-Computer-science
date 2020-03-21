@@ -16,6 +16,11 @@ Web
 
 * [Data science central](https://www.datasciencecentral.com/)
 
+Book
+-
+
+[Recommended](https://twitter.com/wildtypeMC/status/1240862547370299392)
+
 Machine Learning
 -
 
