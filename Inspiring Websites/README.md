@@ -16,6 +16,8 @@ Web
 
 * [Data science central](https://www.datasciencecentral.com/)
 
+* [Good habits](https://widdowquinn.github.io/ten_great_papers/)
+
 Book
 -
 
