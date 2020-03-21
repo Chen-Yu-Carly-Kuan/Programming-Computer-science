@@ -27,6 +27,6 @@ R
 * [R-crash-course](https://bioinformatics-core-shared-training.github.io/r-crash-course/)
 * [Learn R, in R](https://swirlstats.com/)
 
-jupyter notebook
+Jupyter notebook
 -
 * [All you need to know as a beginner](https://www.youtube.com/watch?v=HW29067qVWk)
