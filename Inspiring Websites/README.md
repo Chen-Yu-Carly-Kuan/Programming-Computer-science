@@ -21,7 +21,10 @@ Machine Learning
 
 ### Book
 
-* [Machine Learning-Berkeley](https://www.eecs189.org/static/resources/comprehensive-guide.pdf)
+*
+|Link|Key Words|
+-----------------------------------------------------------------------------------------------------------------------
+|[Machine Learning-Berkeley](https://www.eecs189.org/static/resources/comprehensive-guide.pdf)|Algorithms, Mathematics|
 
 Python
 -
