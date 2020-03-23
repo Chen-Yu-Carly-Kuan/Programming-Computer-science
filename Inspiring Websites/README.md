@@ -11,7 +11,7 @@ Lecture
 Web
 -
 
-* [Towardsdatascience](https://towardsdatascience.com/)
+* [Towards data science](https://towardsdatascience.com/)
 
 * [GitHub Education](https://education.github.com/)
 
