@@ -32,6 +32,12 @@ Machine Learning
 | --- | --- |
 | [Machine Learning-Berkeley](https://www.eecs189.org/static/resources/comprehensive-guide.pdf)|Algorithms, Mathematics |
 
+
+### Web
+| Link | Key Words |
+| --- | --- |
+|[Microsoft Taiwan Account Technology Strategist](https://medium.com/@asheliao) |Taiwanese's blog|
+
 Python
 -
 
