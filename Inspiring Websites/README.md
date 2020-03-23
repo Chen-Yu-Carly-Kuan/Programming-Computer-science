@@ -10,6 +10,9 @@ Lecture
 
 Web
 -
+
+* [Towardsdatascience](https://towardsdatascience.com/)
+
 * [GitHub Education](https://education.github.com/)
 
 * [Data Analytics Hub](https://exeter-data-analytics.github.io/)
