@@ -45,6 +45,10 @@ Machine Learning
 | --- | --- |
 |[Microsoft Taiwan Account Technology Strategist](https://medium.com/@asheliao) |Taiwanese's blog|
 
+Transfer Learning
+-
+[Machine Learning's Next Frontier](https://ruder.io/transfer-learning/)
+
 Python
 -
 
