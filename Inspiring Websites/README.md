@@ -37,6 +37,8 @@ Machine Learning
 | --- | --- |
 | [Machine Learning-Berkeley](https://www.eecs189.org/static/resources/comprehensive-guide.pdf)|Algorithms, Mathematics |
 
+### SCI
+[Machine Learning in Plant Science-FRONTIERS](https://www.frontiersin.org/research-topics/6856/machine-learning-in-plant-science#articles)
 
 ### Web
 | Link | Key Words |
