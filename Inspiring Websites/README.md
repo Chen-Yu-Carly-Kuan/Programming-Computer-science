@@ -54,6 +54,12 @@ Transfer Learning
 
 [Cortex-Deploy machine learning models in production](https://www.cortex.dev/)
 
+
+Mathematics for Machine Learning
+-
+
+[Digital Learning Hub - Imperial College London](https://www.youtube.com/channel/UCSzae1ITUdw9DCdELMduaQw)
+
 Python
 -
 
