@@ -52,6 +52,8 @@ Transfer Learning
 -
 [Machine Learning's Next Frontier](https://ruder.io/transfer-learning/)
 
+[Cortex-Deploy machine learning models in production](https://www.cortex.dev/)
+
 Python
 -
 
