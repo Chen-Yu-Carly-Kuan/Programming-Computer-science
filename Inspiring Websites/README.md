@@ -23,6 +23,11 @@ Book
 
 [Recommended](https://twitter.com/wildtypeMC/status/1240862547370299392)
 
+Data Science
+-
+[WiDS Stanford](https://www.youtube.com/watch?v=V6bSlPNwrKo&list=PLn62CdVLnT-eIdTp7yvEpkMBcu-rD5GsF&index=5&t=0s)
+
+
 Machine Learning
 -
 
