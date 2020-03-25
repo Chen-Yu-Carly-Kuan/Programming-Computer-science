@@ -8,6 +8,8 @@ Lecture
 
 * [Data Science](https://www.edx.org/professional-certificate/python-data-science)
 
+* [Data Analytics, Geostatistics, Machine learning](https://www.youtube.com/channel/UCLqEr-xV-ceHdXXXrTId5ig)
+
 Web
 -
 
