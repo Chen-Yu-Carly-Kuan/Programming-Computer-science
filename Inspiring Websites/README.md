@@ -13,6 +13,8 @@ Lecture
 Web
 -
 
+* [Image processing/analysis, machine learning](https://twitter.com/HiroshiSasak1/status/1240392026899787777)
+
 * [Towards data science](https://towardsdatascience.com/)
 
 * [GitHub Education](https://education.github.com/)
