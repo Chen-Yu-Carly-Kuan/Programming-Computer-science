@@ -45,6 +45,20 @@ Machine Learning
 |[Best Machine Learning Books](https://www.youtube.com/watch?v=JqcdEeu527M)|Python Programmer|
 | [Machine Learning-Berkeley](https://www.eecs189.org/static/resources/comprehensive-guide.pdf)|Algorithms, Mathematics |
 
+Fry, H. (2018). Hello World: How to be Human in the Age of the Machine. Random House.
+
+Rogers, S., & Girolami, M. (2016). A first course in machine learning. CRC Press.
+
+Machine Learning for Absolute Beginners: A Plain English Introduction (Book by O. Theobald)
+
+James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An introduction to statistical learning (Vol. 112, pp. 3-7). New York: springer.
+
+Artificial Intelligence: A Modern Approach (Textbook by Peter Norvig and Stuart J. Russell)
+
+Pattern Recognition and Machine Learning  (famous, but quite mathematical)
+
+The Math of Neural Networks (Book by Michael Taylor)
+
 ### SCI
 [Machine Learning in Plant Science-FRONTIERS](https://www.frontiersin.org/research-topics/6856/machine-learning-in-plant-science#articles)
 
