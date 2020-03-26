@@ -42,6 +42,7 @@ Machine Learning
 
 | Link | Key Words |
 | --- | --- |
+|[Best Machine Learning Books](https://www.youtube.com/watch?v=JqcdEeu527M)|Python Programmer|
 | [Machine Learning-Berkeley](https://www.eecs189.org/static/resources/comprehensive-guide.pdf)|Algorithms, Mathematics |
 
 ### SCI
