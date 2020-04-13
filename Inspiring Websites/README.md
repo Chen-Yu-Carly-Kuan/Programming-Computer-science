@@ -13,6 +13,8 @@ Lecture
 Web
 -
 
+* [10-page DataScience Cheat Sheet](https://www.datasciencecentral.com/profiles/blogs/new-data-science-cheat-sheet)
+
 * [Dan_Friedman's blog](https://dfrieds.com/#articles)
 
 * [Image processing/analysis, machine learning](https://twitter.com/HiroshiSasak1/status/1240392026899787777)
